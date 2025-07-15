@@ -1,1 +1,1 @@
-This repository is designed for taking notes on books, passing quick starts on libraries, etc.
+[![SadServers Level](https://img.shields.io/badge/SadServers-Beginner-00838F?style=for-the-badge&labelColor=FFC400&logo=docker&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
